@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.nimvb.app.autoconfigure.todospringbootautoconfigure.DatabaseAutoConfiguration,\
+  com.nimvb.app.autoconfigure.todospringbootautoconfigure.RepositoryAutoConfiguration
